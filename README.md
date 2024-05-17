@@ -8,8 +8,8 @@ La base de datos utilizada fue extraída del repositorio: [Freston1605/ucp_proje
 Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciendo clic en el siguiente enlace:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mauriciocruzriveros/BasededatosFlavonoides/blob/main/flavonoids_collab.ipynb)
-![Distribución de Tipos de Flavonoides](imgs/grafico_torta_flavonoides.png)
 
+![Distribución de Tipos de Flavonoides](imgs/grafico_torta_flavonoides.png)
 
 
 ## Contenido del Repositorio
