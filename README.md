@@ -1,7 +1,5 @@
 # Análisis a Base de Datos de Flavonoides
 
-![Distribución de Tipos de Flavonoides](images/grafico_torta_flavonoides.png)
-
 Este repositorio contiene un notebook de análisis de datos de flavonoides, el cual puede ser ejecutado fácilmente desde Google Colab. 
 La base de datos utilizada fue extraída del repositorio: [Freston1605/ucp_project](https://github.com/Freston1605/ucp_project).
 
@@ -10,6 +8,9 @@ La base de datos utilizada fue extraída del repositorio: [Freston1605/ucp_proje
 Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciendo clic en el siguiente enlace:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mauriciocruzriveros/BasededatosFlavonoides/blob/main/flavonoids_collab.ipynb)
+![Distribución de Tipos de Flavonoides](imgs/grafico_torta_flavonoides.png)
+
+
 
 ## Contenido del Repositorio
 
