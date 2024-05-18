@@ -14,8 +14,8 @@ Puedes visualizar y ejecutar el notebook directamente desde Google Colab haciend
 
 ## Contenido del Repositorio
 - /docking_ucp2_flavonoids : Carpeta que contiene resultados de screening molecular (Sacada de : https://github.com/Freston1605/ucp_project)
-- flavonoids_collab.ipynb : Este archivo contiene el notebook de Jupyter con el análisis de la base de datos de flavonoides.
 - /imgs : Carpeta que contiene las imagenes que se muestran en el notebook
+- flavonoids_collab.ipynb : Este archivo contiene el notebook de Jupyter con el análisis de la base de datos de flavonoides.
 - README.md : Archivo que contiene la sección que estas leyendo
 - extraer_delta_g.py : Script hecho en python para extraer desde docking-ucp2-flavonoids a flavonoids_data.csv
 - flavonoids_data.csv : Base de datos de Flavonoides (Sacada de : https://github.com/Freston1605/ucp_project)
